@@ -64,7 +64,7 @@ body{
 
 .middle-container{
   background-color: white;
-  max-width: 450px;
+  width: 450px;
   margin: 0 auto;
   padding: 20px 0;
   position: relative;
